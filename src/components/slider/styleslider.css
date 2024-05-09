@@ -1,0 +1,20 @@
+
+  
+  h2 {
+    font-size: 40px; /* Reduced font size */
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+  
+  h3 {
+    font-size: 30px; /* Reduced font size */
+    display: flex;
+    justify-content: center;
+    border-radius: 0px; /* Reduced border-radius */
+    height: 400px; /* Adjusted height */
+    width: 100%; /* Added width */
+    margin: 0 auto; /* Center align */
+    font-family: sans-serif;
+  }
+  
